@@ -20,21 +20,22 @@
 
 
 
-### 💻 Stats:
+# 📊 GitHub Stats:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ConstPavlov&layout=compact&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ConstPavlov&layout=compact&theme=react&background=21232" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ConstPavlov&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ConstPavlov&layout=compact&theme=react&background=000000" />
     </td>
   </tr>
 </table>
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ConstPavlov&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ConstPavlov)](https://github.com/ConstPavlov/github-profile-trophy)
 
-### 💻 Codewars:
+# 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/ConstPavlov/badges/large)
