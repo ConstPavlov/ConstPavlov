@@ -14,3 +14,27 @@
 
 
 <!-- About section: END -->
+
+
+
+
+
+
+### 💻 Stats:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ConstPavlov&layout=compact&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ConstPavlov&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ConstPavlov)](https://github.com/ConstPavlov/github-profile-trophy)
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/ConstPavlov/badges/large)
